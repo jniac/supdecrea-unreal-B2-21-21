@@ -44,7 +44,8 @@ Ressources :
 L'artéfact est composé de primitives simples (cube, tore) dont les UV sont faciles 
 à travailler.
 
-Créer le blueprint de base de l'artefact (video youtube) :
+Créer le blueprint de base de l'artefact (video youtube) :  
+
 [<img src="https://i9.ytimg.com/vi/QURXOL06jcQ/mq2.jpg?sqp=CJC-nY0G&rs=AOn4CLBsJFb4rY_ApyR2bcEOVu9O3PBoTA">](https://youtu.be/QURXOL06jcQ)
 
 ### Grille d'évaluation
