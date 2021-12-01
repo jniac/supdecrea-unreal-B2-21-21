@@ -12,7 +12,7 @@ découvre l'artefact. Celui-ci a un aspect surnaturel.
 - Template Unreal : [ThirdPerson]https://docs.unrealengine.com/4.26/en-US/Resources/Templates/ThirdPerson/
 - Assets: [InfinityGrassLand](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-plain-lands)
 
-### Landscape
+### Le terrain (Landscape)
 
 A partir du template Unreal "ThirdPerson", dans une nouvelle scène (level) 
 modéliser un terrain (outil "Landscape") dont l'élevation doit suivre le volume 
@@ -29,4 +29,13 @@ Pour permettre une modélisation fine, le terrain est "petit" mais dense (maille
 Voici les réglages : 
 
 <img height=400 src=assets/TheArtifact-Landscape-Settings.jpg><br>
+
+### L'artéfact
+
+Ressources :
+- [TheArtifact-Object-High.fbx](assets/TheArtifact-Object-High.fbx)
+- [TheArtifact-Object-Texture.psd (zip)](assets/TheArtifact-Object-Texture.psd.zip)
+
+L'artéfact est composé de primitives simples (cube, tore) dont les UV sont facile 
+à travailler.
 
