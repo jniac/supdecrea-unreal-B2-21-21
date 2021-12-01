@@ -9,10 +9,13 @@ découvre l'artefact. Celui-ci a un aspect surnaturel.
 
 ## Description détaillée
 
-- Template Unreal : [ThirdPerson]https://docs.unrealengine.com/4.26/en-US/Resources/Templates/ThirdPerson/
+- Template Unreal : [ThirdPerson](https://docs.unrealengine.com/4.26/en-US/Resources/Templates/ThirdPerson/)
 - Assets: [InfinityGrassLand](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-plain-lands)
 
 ### Le terrain (Landscape)
+
+Ressources :
+- [TheArtifact-Landscape-Volume.fbx](assets/TheArtifact-Landscape-Volume.fbx)
 
 A partir du template Unreal "ThirdPerson", dans une nouvelle scène (level) 
 modéliser un terrain (outil "Landscape") dont l'élevation doit suivre le volume 
