@@ -1,5 +1,7 @@
 # Artifact Brief
 
+<img src=works/jniac/artifact/artifact-vue-1.jpg>
+
 ## Résumé : 
 
 Mettre en scène la découverte d'un artéfact dans un environnement ouvert. Dans un 
