@@ -1,0 +1,58 @@
+  body{
+    background-color: rgb(4, 68, 18);
+  }
+  
+  body.work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 64px;
+  }
+
+  TitreDiv {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-decoration: underline solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 32px;  
+    
+    
+    /* Shadow du Titre*/
+    color: #FFF;
+    text-shadow: 0 0 5px rgb(41, 124, 34), 0 0 10px rgb(43, 162, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
+  }
+
+  img {
+    -webkit-box-shadow:  0px -1px 11px 11px rgba(0,0,0,0.73); 
+    box-shadow:  0px -1px 11px 11px rgba(0,0,0,0.73);
+    width:1200px;
+    height: auto;
+    margin: 32px;  
+    /* Refonte de la taille des images et ajout de la Shadow-Box*/
+  }
+
+  div {
+    -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0,0,0,0.91); 
+    box-shadow: inset 0px 0px 26px 5px rgba(0,0,0,0.91);
+    /* Shadow-Bow de division */
+  }
+
+
+
+  p {
+       /* Shadow du texte*/
+    color: #FFF;
+    text-shadow: 0 0 5px rgb(41, 124, 34), 0 0 10px rgb(43, 162, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
