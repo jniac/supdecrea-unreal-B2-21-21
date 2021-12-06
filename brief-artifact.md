@@ -46,11 +46,16 @@ L'artéfact est composé de primitives simples (cube, tore) dont les UV sont fac
 
 Créer le blueprint de base de l'artefact (video youtube) :  
 
-[<img src="https://i9.ytimg.com/vi/QURXOL06jcQ/mq2.jpg?sqp=CJC-nY0G&rs=AOn4CLBsJFb4rY_ApyR2bcEOVu9O3PBoTA">](https://youtu.be/QURXOL06jcQ)
+[<img height=200 src="assets/TheArtifact-Artifact-BluePrint-Video.jpg">](https://youtu.be/QURXOL06jcQ)
 
 ### Grille d'évaluation
 
 |  | Technique | Artistique | Bonus / Malus divers |
 |---|---|---|---|
 | note | /10 | /10 |  |
-| commentaire | Evaluation principalement sous la forme de bonus / malus : <br>Les éléments sont-ils correctement placés ?<br>Se trouvent-ils des bugs "graphiques" (trous dans le décor, éléments flottants) ?<br>Les screenshots sont-ils corrects (pas de warnings "Light need building", pas de morceaux d'UI). | Est-ce joli ? <br>A-t-on envie d'explorer l'univers ? <br>L'artefact est-il surprenant ? <br>A-t-on envie d'en savoir plus ? | Retard.<br>Contraintes non respectées. |
+| commentaire | Evaluation principalement sous la forme de bonus / malus : <br>Les éléments sont-ils correctement placés ?<br>Se trouvent-ils des bugs "graphiques" (trous dans le décor, éléments flottants) ?<br>Les screenshots sont-ils corrects (pas de warnings "LIGHTING NEEDS TO BE REBUILT", pas de morceaux d'UI). | Est-ce joli ? <br>A-t-on envie d'explorer l'univers ? <br>L'artefact est-il surprenant ? <br>A-t-on envie d'en savoir plus ? | Retard.<br>Contraintes non respectées. |
+
+#### Contraintes techniques de rendu : 
+- Moins de 1Mo par image (pas de PNG mais des jpeg avec une compression autour de 50%)
+- Pas de bord, pas de bouts d'UI.
+- Pas de message "LIGHTING NEEDS TO BE REBUILT"

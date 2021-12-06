@@ -1,0 +1,23 @@
+body, body * {
+  margin: 3;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #90ceb9;
+  font-family: 'Roboto', sans-serif;
+  align-items: center;
+}
+
+body.work {
+  background-color: #90ceb9;
+  align-items: center;
+}
+
+body.work div.image p {
+  background-color: rgb(62, 210, 230);
+  align-items: center;
+}
