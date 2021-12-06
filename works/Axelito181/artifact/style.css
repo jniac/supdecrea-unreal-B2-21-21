@@ -1,7 +1,7 @@
 body.work {
-    background-color: #b5cdac;
+    background-color: red;
   }
   
   body.work div.image p {
-    background-color: khaki;
+    background-color: rgb(22, 0, 216);
   }
