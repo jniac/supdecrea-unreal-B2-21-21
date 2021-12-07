@@ -4,3 +4,6 @@ Projet de rendu des travaux sur Unreal Engine
 
 [Page en ligne](https://jniac.github.io/supdecrea-unreal-B2-21-21/)
 
+## The Artifact
+
+[Brief](brief-artifact.md)
