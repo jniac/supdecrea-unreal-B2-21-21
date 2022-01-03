@@ -1,5 +1,7 @@
   body{
-    background-color: rgb(4, 68, 18);
+    background-repeat: repeat;
+    
+    
   }
   
   body.work {
@@ -22,10 +24,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 24px;  
 
-    margin: 32px;  
-    
-    
     /* Shadow du Titre*/
     color: #FFF;
     text-shadow: 0 0 5px rgb(41, 124, 34), 0 0 10px rgb(43, 162, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
@@ -34,13 +34,37 @@
   img {
     -webkit-box-shadow:  0px -1px 11px 11px rgba(0,0,0,0.73); 
     box-shadow:  0px -1px 11px 11px rgba(0,0,0,0.73);
-    width:1200px;
+    width:800px;
     height: auto;
-    margin: 32px;  
+    margin: 32px;
     /* Refonte de la taille des images et ajout de la Shadow-Box*/
   }
 
-  div {
+  img.little {
+    width:400px;
+    height: auto;
+
+    margin-right: 16px;
+    margin-left: 16px;
+    margin-top: 32px;
+    margin-bottom: 32px;  
+    /* Image plus petite (Pour double images)*/
+  }
+
+  img.littleCenter {
+    width:400px;
+    height: auto;
+ 
+
+    margin-right: 230px;
+    margin-left: 230px;
+    margin-top: 32px;
+    margin-bottom: 32px;  
+      
+    /* Même que pour img.little mais pour une seule image*/
+  }
+
+  div.zone{
     -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0,0,0,0.91); 
     box-shadow: inset 0px 0px 26px 5px rgba(0,0,0,0.91);
     /* Shadow-Bow de division */
@@ -55,4 +79,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center;
+    text-justify: inter-word;
+  }
+
+  p.ita {
+    font-style: italic;
+    font-size: 14px ;
   }
