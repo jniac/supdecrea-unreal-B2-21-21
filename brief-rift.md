@@ -10,3 +10,9 @@ La traversée déclenche un évènement sonore et graphique (à définir).
 
 ## Description détaillée
 
+### Pack d'assets :
+- [Infinity Blade: Grass Lands](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-plain-lands)
+- [Infinity Blade: Castle](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-castle)
+- [Infinity Blade: Hideout](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-hideout)
+- [Procedural Nature Pack Vol.1](https://www.unrealengine.com/marketplace/en-US/product/procedural-nature-pack-vol)
+
