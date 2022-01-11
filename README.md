@@ -11,6 +11,6 @@ Projet de rendu des travaux sur Unreal Engine
 
 [Brief](brief-artifact.md)
 
-### The Artifact
+### The Rift
 
-[Brief](brief-rift.md)
+[Brief <br><img src="assets/TheRift-Brief.jpg" width="800">](brief-rift.md)

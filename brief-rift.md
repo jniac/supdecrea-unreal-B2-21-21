@@ -1,5 +1,7 @@
 # The Rift
 
+<img src="assets/TheRift-Brief.jpg" width="800">
+
 ## Résumé
 
 Mettre en scène l'ascension du joueur depuis le fond d'un rift vers les bords du plateau. 
@@ -41,6 +43,9 @@ Les assets téléchargés doivent faire partie de la sélection suivante :
 - [Infinity Blade: Castle](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-castle)
 - [Infinity Blade: Hideout](https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-hideout)
 - [Procedural Nature Pack Vol.1](https://www.unrealengine.com/marketplace/en-US/product/procedural-nature-pack-vol)
+
+## Technique : 
+ - [Options pour le terrain <br><img src="assets/TheRift-LandscapeSettings.png" width="100">](assets/TheRift-LandscapeSettings.png)
 
 ## Premier rendu :
 - [ ] Une capture d'écran "in-game" depuis le point de départ où "l'espace clos" 
