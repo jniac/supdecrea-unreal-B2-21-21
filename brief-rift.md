@@ -9,7 +9,7 @@ Mettre en scène l'ascension du joueur depuis le fond d'un rift vers les bords d
 ## Description détaillée
 
 Au commencement, le joueur sort d'une espace clos (grotte, tunnel, couloir) pour 
-arriver au fond d'une vallée très encaissée (rift). Dans l'envirronement immédiat
+arriver au fond d'une vallée très encaissée (rift). Dans l'environnement immédiat
 une chemin se propose pour escalader les parois. Le chemin est étroit, la 
 progression difficile, les chutes possibles obligent à recommencer l'ascension.
 La scène se termine sur une traversée du rift par un pont (une structure naturelle ou artificielle). 
