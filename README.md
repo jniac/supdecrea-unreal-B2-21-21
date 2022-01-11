@@ -8,9 +8,7 @@ Projet de rendu des travaux sur Unreal Engine
 ## Exercices :
 
 ### The Artifact
-
-[Brief](brief-artifact.md)
+[<img src="works/jniac/artifact/artifact-vue-1.jpg" width="320"><br>Brief](brief-rift.md)
 
 ### The Rift
-
-[Brief <br><img src="assets/TheRift-Brief.jpg" width="800">](brief-rift.md)
+[<img src="assets/TheRift-Brief.jpg" width="320"><br>Brief](brief-rift.md)
