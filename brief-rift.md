@@ -26,6 +26,8 @@ La traversée déclenche un évènement sonore ET graphique (à définir).
   effet d'ambiance + effet visuel, pluie, particules, jeu sur la lumière...).
 - Le décor doit se faire avec l'outil terrain et un matériaux "Landscape" avec 
   au moins 2 "layers" (ex: 1 pour la roche, 1 pour le sol plat).
+- Les "assets" doivent respecter les contraintes ci dessous (téléchargés depuis pack
+  listés, créés ou bien téléchargés ailleurs mais précisé dans la présentation).
 
 ## Assets :
 3 catégories d'assets sont possibles : 
