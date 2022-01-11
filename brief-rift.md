@@ -34,9 +34,9 @@ La traversée déclenche un évènement sonore ET graphique (à définir).
 - Les assets _"téléchargés"_ issus des packs gratuits pré-selectionnés.
 - Les assets _"créés"_ à partir d'un logiciel de 3D. S'il y en a, pensez à le 
   préciser quelque part pour rendre compte du travail réalisé.
-- Les assets _"téléchargés-hors-pack-pré-selectionnés-parce-que-j-y-tiens-vraiment"_,
-  (provenant des packs Unreal ou de n'importe quelle banque 3D en ligne) ok c'est
-  possible mais une raisonnable mesure et à condition de bien le préciser dans la 
+- Les assets _"téléchargés-hors-pack-pré-selectionnés-parce-que-j-y-tiens-vraiment"_
+  (provenant des packs Unreal ou de n'importe quelle banque 3D en ligne). Ok c'est
+  possible, mais selon une raisonnable mesure, et à condition de bien le préciser dans la 
   présentation HTML (dans une balise paragraphe dédiée (`<p>`)).
   
 
