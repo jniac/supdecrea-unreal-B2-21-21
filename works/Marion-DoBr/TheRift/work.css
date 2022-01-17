@@ -18,9 +18,11 @@ body.work .image {
 body.work div.image p {
   margin-top: 16px;
   margin-bottom: 64px;
+  margin-left: 16px;
+  margin-right: 16px;
   padding: 8px 64px;
   border-radius: 4px;
-  background-color: white;
+  background-color: #9c9ceb;
   align-self: center;
 }
 
