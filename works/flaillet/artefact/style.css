@@ -5,3 +5,18 @@ body.work {
 body.work div.image p {
   background-color: rgb(173, 128, 173);
 }
+body, body * {
+  margin: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #ddd;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+  color: #FFF;
+}
