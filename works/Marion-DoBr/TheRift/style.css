@@ -31,7 +31,7 @@ body.work {
 }
 
 body.work div.image p {
-  background-color: rgb(88, 64, 119);
+  background-color: #584077;
   color: rgb(54, 66, 77);
   align-items: center;
   justify-content: center;
@@ -39,4 +39,12 @@ body.work div.image p {
   margin-left: 32px;
   margin-right: 32px;
   margin-bottom: 100px;
+}
+
+body.work div.image.brief img {
+  border-color: blueviolet;
+}
+
+body.work div.image.brief p {
+  background-color: blueviolet;
 }
