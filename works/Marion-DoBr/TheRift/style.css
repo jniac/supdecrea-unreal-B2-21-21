@@ -1,0 +1,27 @@
+body, body * {
+  margin: 3;
+  box-sizing: border-box;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #785d92;
+  font-family: 'Roboto', sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+
+body.work {
+  background-color: #ba90ce;
+  align-items: center;
+  justify-content: center;
+}
+
+body.work div.image p {
+  background-color: rgb(88, 64, 119);
+  align-items: center;
+  justify-content: center;
+}
