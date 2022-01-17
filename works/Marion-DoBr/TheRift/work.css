@@ -33,10 +33,6 @@ body.work * {
   text-align: center;
 }
 
-body.work div.image.brief img { 
-  border: solid 16px #9c9ceb;
-}
-
-body.work div.image.brief p { 
+body.work div.image.brief p {
   background-color: #9c9ceb;
 }
