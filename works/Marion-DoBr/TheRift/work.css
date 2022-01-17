@@ -1,0 +1,34 @@
+body.work {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px;
+}
+
+body.work h1 {
+  margin-bottom: 64px;
+}
+
+body.work .image {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+
+body.work div.image p {
+  margin-top: 16px;
+  margin-bottom: 64px;
+  padding: 8px 64px;
+  border-radius: 4px;
+  background-color: white;
+  align-self: center;
+}
+
+body.work div.image img {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+body.work * {
+  text-align: center;
+}
