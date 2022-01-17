@@ -1,0 +1,7 @@
+body.work {
+  background-color: #0d2b58;
+}
+
+body.work div.image p {
+  background-color: rgba(241, 161, 86, 0.438);
+}
