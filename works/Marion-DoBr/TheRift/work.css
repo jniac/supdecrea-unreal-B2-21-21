@@ -18,19 +18,27 @@ body.work .image {
 body.work div.image p {
   margin-top: 16px;
   margin-bottom: 64px;
+  margin-left: 16px;
+  margin-right: 16px;
   padding: 8px 64px;
   border-radius: 4px;
-  background-color: white;
+  background-color: #9c9ceb;
   align-self: center;
 }
 
 body.work div.image img {
   border-radius: 4px;
   overflow: hidden;
+  width: 1500px;
+  height: auto;
 }
 
 body.work * {
   text-align: center;
+}
+
+body.work div.image.brief img { 
+  border: solid 16px #716fe9;
 }
 
 body.work div.image.brief p {

@@ -18,6 +18,10 @@ body.home h1 {
 
 body.home p {
   text-align: center;
+  margin-top: 32px;
+  margin-left: 32px;
+  margin-right: 32px;
+  margin-bottom: 32px;
 }
 
 body.home ul {
