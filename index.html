@@ -7,6 +7,10 @@
     <h1>Travaux étudiants Unreal 2021-2022</h1>
 
     <ul>
+
+      <li class="head">
+        <div>Étudiants <span></span></div>
+      </li>
       
       <!-- <li>
         <div>Joseph</div>
@@ -113,6 +117,8 @@
     </ul>
       
 
-    
+    <script>
+      document.querySelector('li.head span').innerHTML = `(${document.querySelectorAll('li:not(.head)').length})`
+    </script>
   </body>
 </html>
