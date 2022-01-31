@@ -61,3 +61,4 @@ Les assets téléchargés doivent faire partie de la sélection suivante :
   
 ## Ressources:
 - Tonnerre https://freesound.org/people/BlueDelta/sounds/446753/
+- Converions Audio MP3 -> WAV https://audio.online-convert.com/convert-to-wav
