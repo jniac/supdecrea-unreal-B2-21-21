@@ -57,3 +57,7 @@ Les assets téléchargés doivent faire partie de la sélection suivante :
 - [ ] Une capture d'écran "editor" du parcours (vue aérienne, en plongée) avec 
   éventuellement des éléments masqués pour l'occasion. Cette vue sert à montrer 
   la mise en place générale du parcours.
+  
+  
+## Ressources:
+- Tonnerre https://freesound.org/people/BlueDelta/sounds/446753/
