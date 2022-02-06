@@ -31,6 +31,7 @@ body.work div.image img {
   overflow: hidden;
   width: 1500px;
   height: auto;
+  box-shadow: 3px 3px 10px 3px rgba(0,0,0,0.76);
 }
 
 body.work * {
