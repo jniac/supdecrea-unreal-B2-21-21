@@ -39,6 +39,7 @@ body.work div.image p {
   margin-left: 32px;
   margin-right: 32px;
   margin-bottom: 100px;
+  box-shadow: 1px 4px 13px 3px rgba(0,0,0,0.76);
 }
 
 body.work div.image.brief img {

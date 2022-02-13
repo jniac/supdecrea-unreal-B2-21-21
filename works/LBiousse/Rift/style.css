@@ -1,0 +1,15 @@
+body.work {
+  background-color: #D77FA1;
+}
+
+body.work div.image p {
+  background-color: #BAABDA;
+}
+
+body.work div.image.brief img {
+  border-color: #D6E5FA;
+}
+
+body.work div.image.brief p {
+  background-color: #D6E5FA;
+}
