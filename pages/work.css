@@ -13,6 +13,7 @@ body.work .image {
   align-self: stretch;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 body.work div.image p {
