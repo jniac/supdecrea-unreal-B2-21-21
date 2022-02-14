@@ -5,48 +5,54 @@
   <body class="home">
 
     <h1>Travaux étudiants Unreal 2021-2022</h1>
+    <h2><a href="https://github.com/jniac/supdecrea-unreal-B2-21-21/">page github</a></h2>
 
     <ul>
+
+      <li class="head">
+        <div>Étudiants <span></span></div>
+      </li>
       
-      <li>
+      <!-- <li>
         <div>Joseph</div>
         <div><a href="works/jniac/artifact/">Artifact</a></div>
         <div><a href="#">rift (incoming)</a></div>
-      </li>
+      </li> -->
       
       <li>
         <div>Marion</div>
         <div><a href="works/Marion-DoBr/artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/Marion-DoBr/TheRift/">Rift</a></div>
       </li>
       
       <li>
         <div>Duncan</div>
         <div><a href="works/chocex/artifact/">Artifact</a></div>
-        <div><a href="works/chocex/rift/">Rift</a></div>
+        <div><a href="works/chocex/rift1/">Rift</a></div>
+        <div><a href="works/chocex/rift2/">Rift V2</a></div>
       </li>
       
       <li>
         <div>Axelito</div>
         <div><a href="works/Axelito181/artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/Axelito181/rift/">rift </a></div>
       </li>
       
       <li>
         <div>Louison</div>
-        <div><a href="works/Louison-gilles/artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/Dess91/artifact/">Artifact</a></div>
+        <div><a href="works/Dess91/rift/">rift</a></div>
       </li>
 
       <li>
         <div>Guillaume</div>
         <div><a href="works/GuillaumeGauduchon\Artifact">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/GuillaumeGauduchon\TheRift">Rift</a></div>
       <li>
         
         <div>Louis</div>
         <div><a href="works/LBiousse/artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/LBiousse/Rift/">Rift</a></div>
       </li>
       
       <li>
@@ -64,20 +70,21 @@
       <li>
         <div>Killiane</div>
         <div><a href="works/Killiane/Artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
-      </li>
-
-      <li>
-        <div>Mickaël</div>
-        <div><a href="works/MickaëlMigout/Artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
-      </li>
+        <div><a href="works/Killiane/TheRift/">rift (incoming)</a></div>
+      </li>    
       
       <li>
         <div>Yanna</div>
-        <div><a href="works/Yanna/Artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/Yanna/artifact/">Artifact</a></div>
+        <div><a href="works/Yanna/rift/">rift</a></div>
+      </li> 
+
+      <li>
+        <div>Mickaël</div>
+        <div><a href="works/mickaelmigout/Artifact/">Artifact</a></div>
+        <div><a href="works/mickaelmigout/Rift/">Rift</a></div>
       </li>
+      
 
       <li>
         <div>Millan</div>
@@ -88,13 +95,13 @@
       <li>
         <div>edward</div>
         <div><a href="works/gustone1/artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/gustone1/rift/">Rift</a></div>
       </li>
 
       <li>
         <div>Lorah</div>
         <div><a href="works/lorah91/artifact/">Artifact</a></div>
-        <div><a href="#">rift (incoming)</a></div>
+        <div><a href="works/lorah91/rift/">Rift</a></div>
       </li>
 
       <li>
@@ -103,9 +110,17 @@
         <div><a href="#">rift (incoming)</a></div>
       </li>
 
+      <li>
+        <div>Fabienne</div>
+        <div><a href="works/flaillet/artifact/">Artifact</a></div>
+        <div><a href="works/flaillet/rift/">Rift</a></div>
+      </li>
+
     </ul>
       
 
-    
+    <script>
+      document.querySelector('li.head span').innerHTML = `(${document.querySelectorAll('li:not(.head)').length})`
+    </script>
   </body>
 </html>
