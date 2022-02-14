@@ -1,7 +1,15 @@
 body.work {
-    background-color:rgb(0, 10, 104);
+    background-color:rgb(229, 215, 255);
   }
   
   body.work div.image p {
-    background-color : rgb(4, 161, 209);
+    background-color : rgba(97, 171, 255, 0.842);
+  }
+
+  body.work div.image.brief img {
+    border-color: indianred;
+  }
+
+  body.work div.image.brief p {
+    background-color: indianred;
   }
