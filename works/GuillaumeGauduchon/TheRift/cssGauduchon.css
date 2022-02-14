@@ -119,12 +119,12 @@
   }
 
   div.zone.zonevideo p{
-    color: rgb(255, 210, 196);
+    color: rgb(196, 255, 204);
     text-shadow: 0 0 5px rgb(113, 116, 145), 0 0 10px rgb(43, 90, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
   }
 
   div.zone.zonevideo TitreDiv{
-    color: rgb(255, 210, 196);
+    color: rgb(196, 255, 204);
     text-shadow: 0 0 5px rgb(113, 116, 145), 0 0 10px rgb(43, 90, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
   }
 
