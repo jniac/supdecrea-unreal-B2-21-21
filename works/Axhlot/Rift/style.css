@@ -5,3 +5,10 @@ body.work {
   body.work div.image p {
     background-color : rgb(228, 207, 88);
   }
+  body.work div.image.brief img {
+    border-color: rgb(216, 181, 85);
+  }
+
+  body.work div.image.brief p {
+    background-color: rgb(216, 181, 85);
+  }
