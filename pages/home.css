@@ -27,7 +27,7 @@ body.home ul {
 body.home ul li {
   display: flex;
   padding: 4px;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 body.home ul li:hover {
@@ -35,5 +35,5 @@ body.home ul li:hover {
 }
 
 body.home ul li > div {
-  flex: 1;
+  flex: 0 0 20%;
 }
