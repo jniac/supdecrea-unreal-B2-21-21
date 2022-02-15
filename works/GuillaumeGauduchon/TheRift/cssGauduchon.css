@@ -66,15 +66,15 @@
   div.zone{
     -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0,0,0,0.91); 
     box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.952);
-
-    background-color: rgba(68, 68, 68, 0.63);
+    border: ridge 5px rgba(105, 81, 28, 0.671);
+    background-color: rgba(105, 81, 28, 0.466);
     
   }
   div.zone.zonebrief{
     -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.966); 
     box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.952);
-    border: ridge 5px rgba(117, 114, 114, 0.945);
-    background-color: rgba(117, 114, 114, 0.712);
+    border: ridge 5px rgba(117, 90, 55, 0.945);
+    background-color: rgba(117, 90, 55, 0.712);
   }
 
   div.zone.zonebrief p{
@@ -114,8 +114,8 @@
   div.zone.zonevideo{
     -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.966); 
     box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.952);
-    border: ridge 5px rgba(82, 98, 116, 0.945);
-    background-color: rgba(82, 98, 116, 0.945);
+    border: ridge 5px rgba(110, 80, 46, 0.651);
+    background-color: rgba(131, 84, 30, 0.61);
   }
 
   div.zone.zonevideo p{
