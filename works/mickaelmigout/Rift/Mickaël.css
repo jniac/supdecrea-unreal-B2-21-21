@@ -1,0 +1,42 @@
+body.work {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 64px;
+}
+
+body.work h1 {
+  margin-bottom: 64px;
+}
+
+body.work .image {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+
+body.work div.image p {
+  margin-top: 16px;
+  margin-bottom: 64px;
+  padding: 8px 64px;
+  border-radius: 4px;
+  background-color: rgb(212, 167, 69);
+  align-self: center;
+}
+
+body.work div.image img {
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+body.work * {
+  text-align: center;
+}
+
+body.work div.image.brief img { 
+  border: solid 16px rgb(212, 167, 69);
+}
+
+body.work div.image.brief p { 
+  background-color: rgb(212, 167, 69);
+}

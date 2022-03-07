@@ -66,15 +66,15 @@
   div.zone{
     -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0,0,0,0.91); 
     box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.952);
-
-    background-color: rgba(68, 68, 68, 0.63);
+    border: ridge 5px rgba(105, 81, 28, 0.671);
+    background-color: rgba(105, 81, 28, 0.466);
     
   }
   div.zone.zonebrief{
     -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.966); 
     box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.952);
-    border: ridge 5px rgba(117, 114, 114, 0.945);
-    background-color: rgba(117, 114, 114, 0.712);
+    border: ridge 5px rgba(117, 90, 55, 0.945);
+    background-color: rgba(117, 90, 55, 0.712);
   }
 
   div.zone.zonebrief p{
@@ -106,4 +106,33 @@
   p.ita {
     font-style: italic;
     font-size: 14px ;
+  }
+
+
+
+
+  div.zone.zonevideo{
+    -webkit-box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.966); 
+    box-shadow: inset 0px 0px 26px 5px rgba(0, 0, 0, 0.952);
+    border: ridge 5px rgba(110, 80, 46, 0.651);
+    background-color: rgba(131, 84, 30, 0.61);
+  }
+
+  div.zone.zonevideo p{
+    color: rgb(196, 255, 204);
+    text-shadow: 0 0 5px rgb(113, 116, 145), 0 0 10px rgb(43, 90, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
+  }
+
+  div.zone.zonevideo TitreDiv{
+    color: rgb(196, 255, 204);
+    text-shadow: 0 0 5px rgb(113, 116, 145), 0 0 10px rgb(43, 90, 192), 0 0 15px #FFF, 0 0 20px, 0 0 40px #305eb4;
+  }
+
+  iframe {
+    -webkit-box-shadow:  0px -1px 11px 11px rgba(0,0,0,0.73); 
+    box-shadow:  0px -1px 11px 11px rgba(0,0,0,0.73);
+    width:800px;
+    height: 450;
+    margin: 32px;
+    border: solid 4px rgba(0, 0, 0, 0.534);
   }
